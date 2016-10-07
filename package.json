@@ -1,0 +1,27 @@
+{
+  "name": "speakeasy",
+  "version": "1.0.0",
+  "description": "test proof for speak easy google 2-way authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redgsenal/speakeasy.git"
+  },
+  "keywords": [
+    "2",
+    "way",
+    "authentication",
+    "authentication",
+    "google",
+    "authentication"
+  ],
+  "author": "reggie.senal@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redgsenal/speakeasy/issues"
+  },
+  "homepage": "https://github.com/redgsenal/speakeasy#readme"
+}
